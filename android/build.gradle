@@ -52,6 +52,6 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation "com.facebook.react:react-native:+"  // From node_modules
-    implementation 'com.intellij:annotations:+@jar'
+    implementation 'org.jetbrains:annotations:+@jar'
     implementation 'com.google.android.gms:play-services-ads:20.2.0'
 }
